@@ -1,0 +1,14 @@
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\bin\Debug\FirstPro.exe.config
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\bin\Debug\FirstPro.exe
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\bin\Debug\FirstPro.pdb
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro.csprojAssemblyReference.cache
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\MainWindow.g.cs
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\App.g.cs
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro_MarkupCompile.cache
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro_MarkupCompile.lref
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\MainWindow.baml
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro.g.resources
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro.Properties.Resources.resources
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro.csproj.GenerateResource.cache
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro.exe
+C:\Users\Pepsi\source\repos\FirstPro\FirstPro\obj\Debug\FirstPro.pdb
